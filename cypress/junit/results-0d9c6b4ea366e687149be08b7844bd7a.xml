@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="12.503" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-06-04T21:39:01" tests="0" file="cypress/e2e/spec.cy.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="external flow" timestamp="2024-06-04T21:39:01" tests="1" time="12.495" failures="0">
+    <testcase name="external flow should reach success page" time="11.642" classname="should reach success page">
+    </testcase>
+  </testsuite>
+</testsuites>
